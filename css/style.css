@@ -1,0 +1,7 @@
+.dial td{
+	background: black;
+	color: white;
+	border: white 1px solid; 
+	border-collapse: collapse;
+	padding: 12px 20px;
+}
